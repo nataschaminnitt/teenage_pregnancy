@@ -1,0 +1,10 @@
+# Ignore system files
+.DS_Store
+.ipynb_checkpoints/
+
+# Ignore specific folders
+additional/
+data/
+results/
+notebooks/gaf_data_drivers_effects.ipynb
+notebooks/gaf_data_profiling.ipynb
